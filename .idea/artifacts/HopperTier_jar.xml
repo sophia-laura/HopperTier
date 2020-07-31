@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HopperTier:jar">
+    <output-path>$USER_HOME$/Desktop/Servidor - 1.8/plugins</output-path>
+    <root id="archive" name="HopperTier.jar">
+      <element id="module-output" name="HopperTier" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,7 @@
+name: CoralHoppers
+author: SophiaLaura
+version: 1.0.0
+main: xyz.sophialaura.hopper.HopperTier
+depend: [Vault]
+commands:
+  ehopper:

@@ -1,0 +1,7 @@
+name: CoralHoppers
+author: Diogo Murano
+version: 1.0.0
+main: xyz.diogomurano.hopper.HopperTier
+depend: [Vault]
+commands:
+  ehopper:

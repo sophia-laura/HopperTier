@@ -1,0 +1,20 @@
+items:
+  cactus:
+    type: CACTUS
+    sellprice: 30
+
+messages:
+  already-has-hopper: '&cThere is already a hopper in this chunk.'
+  successfully-evolved: '&aThe hopper has evolved successfully'
+
+menu:
+  glass-panel-data: 14
+  title: 'Hopper'
+  click-to-upgrade: '&aClick to evolve'
+  current-level: '&eCurrent level'
+  already-updated: '&cAlready evolved'
+  need-update-other-tier: '&cEvolve the previous tier'
+
+price:
+  tier-1: 100
+  tier-2: 200
